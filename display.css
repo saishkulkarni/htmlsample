@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+.good{
+    height: 300px;
+    width: 200px;
+    background-color: bisque;
+    color: blueviolet;
+    font-family: cursive;
+    border-radius: 5px;
+    padding:10px;
+     border: 3px solid green;
+}
+
+h1{
+    text-shadow: 10px 15px grey;
+}
+
+.good:hover{
+    background-color: teal;
+    box-shadow: 10px 20px 20px 15px coral;
+}

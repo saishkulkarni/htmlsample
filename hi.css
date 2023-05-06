@@ -1,0 +1,24 @@
+.good{
+    border: 4px solid olive;
+    padding: 10px 20px ;
+    outline: 3px black solid;
+    outline-offset: 3px;
+    margin: 40px;
+    /* padding-left: 20px; */
+}
+.boy{
+    outline: 2px solid lawngreen;
+}
+button{
+    color: antiquewhite;
+    border: 3px solid black;
+    background-color: crimson;
+    font-style: italic;
+    padding: 10px;
+    font-size: larger;
+    border-radius: 20px;
+    font-family: cursive;
+    outline: 3px yellow solid;
+    outline-offset: 2px;
+    
+}
